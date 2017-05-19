@@ -1,0 +1,8 @@
+---
+applications:
+- name: ApplicationPrest
+  memory: 512M
+  host: ApplicationPrest
+  domain: mybluemix.net
+  services:
+  - Compose for MySQL-6d
